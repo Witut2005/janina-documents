@@ -48,6 +48,10 @@ You can halt all collection of information by the Application easily by uninstal
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, you can
 delete your data using delete account option within the Application. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
+**Detailed instructions on how to delete User Provided Data**
+
+[Link](https://github.com/Witut2005/janina-documents/blob/main/user-deletion-instructions.md)
+
 **Children**
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
